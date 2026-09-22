@@ -4,6 +4,8 @@ Dashboard glycémie temps réel basé sur LibreLinkUp, développé en Python ave
 
 L'application récupère les mesures FreeStyle Libre via l'API LibreLinkUp et les affiche sur une interface web optimisée pour un écran dédié.
 
+![](glucose_dashboard.jpg)
+
 ---
 
 # ✨ Fonctionnalités
